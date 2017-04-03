@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 06/10/2015 9:36:42.
+     1>Proyecto "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibVideoIO_vc10.vcxproj" en el nodo 3 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\source\Lib\ /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\\" /Fd"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibVideoIO\TVideoIOYuv.cpp
+         TVideoIOYuv.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib" /NOLOGO C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TVideoIOYuv.obj
+         TLibVideoIO_vc10.vcxproj -> C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.unsuccessfulbuild".
+         Aplicando tarea Touch a "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibVideoIO_vc10.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.66

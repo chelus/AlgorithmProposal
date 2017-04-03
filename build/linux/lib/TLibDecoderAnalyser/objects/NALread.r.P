@@ -1,0 +1,29 @@
+objects/NALread.r.o: \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :

@@ -1,0 +1,21 @@
+objects/TEncAnalyze.d.o: \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/TEncAnalyze.cpp \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/TEncAnalyze.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/TEncAnalyze.cpp :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/TEncAnalyze.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/Debug.h :

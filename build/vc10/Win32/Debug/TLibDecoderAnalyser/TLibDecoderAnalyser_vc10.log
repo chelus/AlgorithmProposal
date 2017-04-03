@@ -1,0 +1,41 @@
+﻿Compilación iniciada a las 06/10/2015 9:37:51.
+     1>Proyecto "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibDecoderAnalyser_vc10.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\source\Lib\ /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D RExt__DECODER_DEBUG_BIT_STATISTICS=1 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\\" /Fd"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\AnnexBread.cpp ..\..\source\Lib\TLibDecoder\NALread.cpp ..\..\source\Lib\TLibDecoder\SEIread.cpp ..\..\source\Lib\TLibDecoder\SyntaxElementParser.cpp ..\..\source\Lib\TLibDecoder\TDecBinCoderCABAC.cpp ..\..\source\Lib\TLibDecoder\TDecCAVLC.cpp ..\..\source\Lib\TLibDecoder\TDecCu.cpp ..\..\source\Lib\TLibDecoder\TDecEntropy.cpp ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecSbac.cpp ..\..\source\Lib\TLibDecoder\TDecSlice.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         TDecTop.cpp
+         TDecSlice.cpp
+         TDecSbac.cpp
+         TDecGop.cpp
+         TDecEntropy.cpp
+         TDecCu.cpp
+         TDecCAVLC.cpp
+         TDecBinCoderCABAC.cpp
+         SyntaxElementParser.cpp
+         SEIread.cpp
+         NALread.cpp
+         AnnexBread.cpp
+         Generando código...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib" /NOLOGO C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\AnnexBread.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\NALread.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\SEIread.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\SyntaxElementParser.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecBinCoderCABAC.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecCAVLC.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecCu.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecEntropy.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecGop.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecSbac.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecSlice.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TDecTop.obj
+         TLibDecoderAnalyser_vc10.vcxproj -> C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.unsuccessfulbuild".
+         Aplicando tarea Touch a "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibDecoderAnalyser_vc10.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:01:10.45

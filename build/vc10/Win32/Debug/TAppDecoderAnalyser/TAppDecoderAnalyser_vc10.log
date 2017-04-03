@@ -1,0 +1,27 @@
+﻿Compilación iniciada a las 06/10/2015 9:38:11.
+     1>Proyecto "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TAppDecoderAnalyser_vc10.vcxproj" en el nodo 3 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecoderAnalyser.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\source\Lib\ /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D RExt__DECODER_DEBUG_BIT_STATISTICS=1 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\\" /Fd"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\App\TAppDecoder\decmain.cpp ..\..\source\App\TAppDecoder\TAppDecCfg.cpp ..\..\source\App\TAppDecoder\TAppDecTop.cpp
+         TAppDecTop.cpp
+         TAppDecCfg.cpp
+         decmain.cpp
+         Generando código...
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecoderAnalyser.exe.embed.manifest.res" C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecoderAnalyser_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\bin\vc10\Win32\Debug\TAppDecoderAnalyser.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecoderAnalyser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\bin\vc10\Win32\Debug\TAppDecoderAnalyser.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\bin\vc10\Win32\Debug\TAppDecoderAnalyser.lib" /MACHINE:X86 C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecoderAnalyser.exe.embed.manifest.res
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\decmain.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecCfg.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TAppDecoderAnalyser\TAppDecTop.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\Win32\Debug\TAppCommon\TAppCommon.lib
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\Win32\Debug\TLibCommon\TLibCommon.lib
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib
+     1>LINK : fatal error LNK1104: no se puede abrir el archivo 'C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib'
+     1>Compilación del proyecto terminada "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TAppDecoderAnalyser_vc10.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:24.66

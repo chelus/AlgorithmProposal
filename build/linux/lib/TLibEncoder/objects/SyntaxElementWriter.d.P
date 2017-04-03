@@ -1,0 +1,15 @@
+objects/SyntaxElementWriter.d.o: \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/chelus/Escritorio/HM16.0_Algoritmo/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :

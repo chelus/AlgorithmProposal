@@ -1,0 +1,63 @@
+﻿Compilación iniciada a las 06/10/2015 9:36:46.
+     1>Proyecto "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibEncoder_vc10.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\source\Lib\ /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\\" /Fd"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncAnalyze.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         WeightPredAnalysis.cpp
+         TEncTop.cpp
+         TEncSlice.cpp
+         TEncSearch.cpp
+         TEncSbac.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncRateCtrl.cpp
+         TEncPreanalyzer.cpp
+         TEncPic.cpp
+         TEncGOP.cpp
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2256): warning C4244: '+=' : conversión de 'Double' a 'Int64'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2267): warning C4244: 'inicializando' : conversión de 'Int64' a 'double'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2282): warning C4244: '+=' : conversión de 'double' a 'Int64'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2287): warning C4244: 'argumento' : conversión de 'Int64' a 'double'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2338): warning C4244: '+=' : conversión de 'Double' a 'Int64'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2349): warning C4244: 'inicializando' : conversión de 'Int64' a 'double'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2364): warning C4244: '+=' : conversión de 'double' a 'Int64'; posible pérdida de datos
+     1>c:\users\chelus\desktop\hm16.0_algoritmo\source\lib\tlibencoder\tencgop.cpp(2369): warning C4244: 'argumento' : conversión de 'Int64' a 'double'; posible pérdida de datos
+         TEncEntropy.cpp
+         TEncCu.cpp
+         TEncCavlc.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncBinCoderCABAC.cpp
+         TEncAnalyze.cpp
+         SyntaxElementWriter.cpp
+         SEIwrite.cpp
+         NALwrite.cpp
+         Generando código...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\NALwrite.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\SEIwrite.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncAnalyze.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncCavlc.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncCu.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncEntropy.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncGOP.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncPic.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncRateCtrl.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncSbac.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncSearch.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncSlice.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TEncTop.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj
+         TLibEncoder_vc10.vcxproj -> C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild".
+         Aplicando tarea Touch a "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibEncoder_vc10.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:01:05.02

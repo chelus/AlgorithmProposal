@@ -1,0 +1,45 @@
+﻿Compilación iniciada a las 06/10/2015 9:58:31.
+     1>Proyecto "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibCommon_vc10.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\source\Lib\ /IC:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\TComPic.cpp
+         TComPic.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\libmd5.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\ContextModel.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\Debug.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\SEI.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComBitStream.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComCABACTables.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComChromaFormat.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComDataCU.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComInterpolationFilter.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComLoopFilter.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComMotionInfo.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPattern.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPic.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPicSym.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPicYuv.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPicYuvMD5.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComPrediction.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComRdCost.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComRom.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComSlice.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComTrQuant.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComTU.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComWeightPrediction.obj
+         C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TComYuv.obj
+         TLibCommon_vc10.vcxproj -> C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild".
+         Aplicando tarea Touch a "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Chelus\Desktop\HM16.0_Algoritmo\build\vc10\TLibCommon_vc10.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.75
